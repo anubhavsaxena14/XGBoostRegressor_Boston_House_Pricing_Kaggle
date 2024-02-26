@@ -1,8 +1,10 @@
 # XGBoostRegressor_Boston_House_Pricing_Kaggle
 
-# Boston House Pricing:
+### Boston House Pricing:
 
-Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town
+Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): 
+
+CRIM: per capita crime rate by town
 
 ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
 
@@ -34,7 +36,7 @@ MEDV: Median value of owner-occupied homes in $1000s
 
 We can see that the input attributes have a mixture of units.
 
-# XGBoostRegressor:
+### XGBoostRegressor:
 
 It is an implementation of the XGBoost algorithm specifically designed for regression tasks in machine learning.
 
